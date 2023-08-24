@@ -1,7 +1,7 @@
 # UkraineFlag
-![Preview Animation](https://github.com/akoval29/UkraineFlag/blob/master/preview.gif)
+![Preview Animation](https://github.com/akoval29/UkraineFlag/blob/master/lib/preview.gif)
 ## Technologies Used
 - **HTML**
 - **CSS**
-## Original author of this code
+## My thanks
 [Freelancerlifestyle - GitHub](https://github.com/FreelancerLifeStyle)
