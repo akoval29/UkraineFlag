@@ -1,28 +1,22 @@
-/* ----------------- */
-/* --RESET STYLES--- */
-/* ----------------- */
-@import url("reset.css");
-/* ----------------- */
-/* ---FOR EXAMPLE--- */
-/* ----------------- */
+@import url("./normalize.css");
+
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   color: #fff;
   background-color: #262c37;
 }
 /* ------------------ */
 .wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   min-height: 100vh;
+  width: 500px;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-/* ----------------- */
-/* ---MAIN STYLES--- */
-/* ----------------- */
 
 .flag {
   transform: rotate(-5deg);
