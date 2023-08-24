@@ -6,6 +6,9 @@
 /* ---FOR EXAMPLE--- */
 /* ----------------- */
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   color: #fff;
   background-color: #262c37;
